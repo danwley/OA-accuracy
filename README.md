@@ -4,7 +4,9 @@
 
 Welcome to the OA Accuracy repository! Here, we're exploring an alternative yet complementary metric to traditional chess accuracy, aiming to better represent real-game dynamics, especially in low time control formats.
 
-Check out this motivation from GothamChess, one of the biggest chess streamers/coaches out there. 
+Check out this motivation from GothamChess, one of the biggest chess streamers/coaches out there.
+
+Figure comparing traditional accuracy to OA accuracy is all you need potentially. They are two ends of the extreme- evaluation according to the engine vs evaluation according to what actually happened in the game.
 
 ### 🛠 How It Works
 After every move, a traditional engine computes the evaluation difference. If you don't lose eval from a move, you don't lose accuracy. If your move lost eval (e.g., a blunder), then your accuracy drops.
