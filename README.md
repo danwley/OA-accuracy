@@ -1,3 +1,5 @@
+🎯 **Target Audience:** Chess platforms (like chess.com), streamers, commentators, and players interested in a richer game analysis.
+
 # Outcome-Adjusted (OA) Accuracy in Chess
 
 Welcome to the OA Accuracy repository! Here, we're exploring an alternative yet complementary metric to traditional chess accuracy, aiming to better represent real-game dynamics, especially in low time control formats.
@@ -15,12 +17,12 @@ The core principle: If you make a move that would typically be considered a blun
 
 Moments that Gotham alluded to something similar to OA accuracy: 16:00, 22:00
 
-https://www.youtube.com/watch?v=9Ov93YjTZ70&t=1153s
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/9Ov93YjTZ70/mqdefault.jpg" alt="Watch the video" width="480" height="270" border="10" />
+</a>
 
 ### Why OA Accuracy?
 In the world of chess, a player's decision can be a blend of theory, intuition, psychological play, and time management. While traditional engine accuracy offers valuable insights, there's a space for understanding the effectiveness of moves in practical play. Enter: OA Accuracy.
-
-🎯 Target Audience: Chess platforms (like chess.com), streamers, commentators, and players interested in a richer game analysis.
 
 <details>
 <summary>📖 Background</summary>
