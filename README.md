@@ -13,6 +13,10 @@ The core principle: If you make a move that would typically be considered a blun
 
 **Include example from an actual game. Ask for the best move? Ask for the follow-up.**
 
+Moments that Gotham alluded to something similar to OA accuracy: 16:00, 22:00
+
+https://www.youtube.com/watch?v=9Ov93YjTZ70&t=1153s
+
 ### Why OA Accuracy?
 In the world of chess, a player's decision can be a blend of theory, intuition, psychological play, and time management. While traditional engine accuracy offers valuable insights, there's a space for understanding the effectiveness of moves in practical play. Enter: OA Accuracy.
 
