@@ -7,11 +7,13 @@ Welcome to the OA Accuracy repository! Here, we're exploring an alternative yet 
 Check out this motivation from GothamChess, one of the biggest chess streamers/coaches out there. 
 
 ### 🛠 How It Works
-After every move, a traditional engine computes the evaluation difference. If you don't lose eval from a move, you don't lose accuracy. If your move lost eval (e.g., a blunder), then your this is reflected in
+After every move, a traditional engine computes the evaluation difference. If you don't lose eval from a move, you don't lose accuracy. If your move lost eval (e.g., a blunder), then your accuracy drops.
 
-If a significant difference (indicating a potential blunder) does not result in a tangible setback in the game, the OA accuracy metric may not penalize the player, considering the move effective in that particular context.
+OA accuracy, on the other hand, takes into account your opponent's responses. If your opponent did not punish a blunder that you made, or an innacuracy, and so forth, you won't lose OA accuracy.
 
-The core principle: If you make a move that would typically be considered a blunder, but your opponent does not capitalize on it, then the move's practical impact wasn't negative. Hence, it shouldn't heavily impact your OA accuracy.
+For example, you might play a gambit line in the opening. Your traditional accuracy usually suffers because the gambit is an inaccuracy. However, it's often the case that your opponent won't know the correct responses to your gambit/unusual opening line (this is often why players choose such moves). Thus, if your opponent doesn't capitalize on the gambit, it should arguably be considered the best move (depending on the opponent's response).
+
+The core principle: If you make a move that loses game advantage (according to engine evaluation), but your opponent does not gain advantage, relative to the evaluation before your move, then the move's practical impact wasn't negative. Hence, it shouldn't heavily impact your OA accuracy.
 
 **Include example from an actual game. Ask for the best move? Ask for the follow-up.**
 
