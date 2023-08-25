@@ -1,1 +1,1 @@
-# effective_accuracy
+# Outcome-Adjusted (OA) Accuracy in Chess
