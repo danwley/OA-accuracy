@@ -68,7 +68,7 @@ OA accuracy respects real-life game dynamics, including the psychology of play a
 <details>
 <summary>🚀 Benefits of OA Accuracy</summary>
 
-Importantly: sits on top of traditional engine accuracy functions, $f(\sum(\text{centipawn loss}))$.
+Importantly: sits on top of traditional engine accuracy functions, $f(\sum\text{centipawn loss})$.
  
 Bridge Between Theory & Practice: Understand where the ideal theoretical move and the best practical move diverge.
 
