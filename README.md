@@ -17,7 +17,7 @@ For example, you might play a gambit line in the opening. Your traditional accur
 
 **The core principle:** If you make a move that loses game advantage (according to engine evaluation), but your opponent does not gain advantage, relative to the evaluation before your move, then the move's practical impact wasn't negative. Hence, it shouldn't heavily impact your OA accuracy.
 
-**Example:** The position is equal, with evaluation 0. You blunder, and the advantage drops to minus 3. However, your opponent does not take advantage, and after their move, the evaluation bar rises to +2. Under traditional measures, your move would lose accuracy. With OA accuracy, you are not penalized for moves that lost no advantage.
+**Example:** The position is equal with evaluation 0. You blunder and the advantage drops to minus 3. However, your opponent does not take advantage, and after their move, the evaluation bar rises to +2. Under traditional measures, your move would lose accuracy. With OA accuracy, you are not penalized for moves that result in equal or better positions.
 
 **Include example from an actual game. Ask for the best move? Ask for the follow-up.**
 
