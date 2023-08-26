@@ -15,6 +15,8 @@ OA accuracy, on the other hand, takes into account your opponent's responses. If
 
 For example, you might play a gambit line in the opening. Your traditional accuracy usually suffers because the gambit is an inaccuracy. However, it's often the case that your opponent won't know the correct responses to your gambit/unusual opening line (often why players choose such moves). If your opponent doesn't capitalize on your gambit, it might arguably be considered the best move.
 
+The same applies in bullet chess. Your opponent is low on time and pre-moving, so you attack their queen with your rook. If the rook were unguarded, this could be a huge blunder. However, if your opponent was too busy pre-moving and didn't take your rook, your move would win a queen. A blunder according to traditional accuracy, while somehow a very smart move on your behalf.
+
 **The core principle:** If you make a move that loses game advantage (according to engine evaluation), but your opponent does not gain advantage, relative to the evaluation before your move, then the move's practical impact wasn't negative. Hence, it shouldn't heavily impact your OA accuracy.
 
 **Example:** The position is equal with evaluation 0. You blunder and the advantage drops to minus 3. However, your opponent does not take advantage, and after their move, the evaluation bar rises to +2. Under traditional measures, your move would lose accuracy. With OA accuracy, you are not penalized for moves that result in equal or better positions.
