@@ -38,7 +38,7 @@ Traditional accuracy reflects the theoretical best move.
 
 OA accuracy respects real-life game dynamics, including the psychology of play and time pressures, especially prominent in formats like bullet or blitz.
 
-### Why we can't replace traditional accuracy
+### Why we still need traditional engine accuracy
 
 - Might encourage bad practice from players. It has to be stated that OA accuracy reflects the other side of the extreme - while traditional accuracy uses the best moves according to an engine, OA accuracy targets 
 
