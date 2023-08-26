@@ -2,7 +2,7 @@
 
 # Outcome-Adjusted (OA) Accuracy in Chess
 
-Welcome to the OA Accuracy repository! Here, we're proposing a complementary metric to traditional chess accuracy, aiming to better represent real-game dynamics in certain situations, and especially in low time control formats.
+Welcome to the OA Accuracy repository! Here, we're proposing a complementary metric to traditional chess accuracy, aiming to better represent real-game dynamics in certain situations, particularly in low time control formats.
 
 Check out this motivation from GothamChess, one of the biggest chess streamers/coaches out there.
 
