@@ -4,8 +4,6 @@
 
 Welcome to the OA Accuracy repository! Here, we're proposing a complementary metric to traditional chess accuracy, aiming to better represent real-game dynamics in certain situations, particularly in low time control formats.
 
-Check out this motivation from GothamChess, one of the biggest chess streamers/coaches out there.
-
 Figure comparing traditional accuracy to OA accuracy is all you need potentially. They are two ends of the extreme- evaluation according to the engine vs evaluation according to what actually happened in the game.
 
 ### 🛠 How It Works
@@ -23,6 +21,7 @@ The same applies in bullet chess. Your opponent is low on time and pre-moving, s
 
 **Include example from an actual game. Ask for the best move? Ask for the follow-up.**
 
+Check out this motivation from GothamChess, one of the biggest chess streamers/coaches out there.
 Moments that Gotham alluded to something similar to OA accuracy: 16:00, 22:00
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
